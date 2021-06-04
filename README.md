@@ -17,6 +17,6 @@ Now let us consider the following cases:
 4. Similarly when c<c'<b same data has different label between (c,c') and (c',b). In both 3 and 4 it will choose to learn the majority label. 
 
     
-The reason why this scheme was used in the first place was to increase the model performance at the crossover or Tc. Classifying phases at either extreme of the temperature scale is an easy task, however at the crossover model performance maybe low beacuse the data on either side of the $t_c$ is similar. 
+The reason why this scheme was used in the first place was to increase the model performance at the crossover or Tc. Classifying phases at either extreme of the temperature scale is an easy task, however at the crossover model performance maybe low beacuse the data on either side of the Tc is similar. 
 
 Ref : https://doi.org/10.1038/nphys4037 
