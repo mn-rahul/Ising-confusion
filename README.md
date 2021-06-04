@@ -18,4 +18,5 @@ Now let us consider the following cases:
 
     
 The reason why this scheme was used in the first place was to increase the model performance at the crossover or $T_c$. Classifying phases at either extreme of the temperature scale is an easy task, however at the crossover model performance maybe low beacuse the data on either side of the $t_c$ is similar. 
-https://doi.org/10.1038/nphys4037 
+
+Ref : https://doi.org/10.1038/nphys4037 
